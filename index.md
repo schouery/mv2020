@@ -20,3 +20,5 @@ All interested students should [register](registration) individually through our
 This edition will have lectures from Monday to Saturday. Each thursday will be dedicated to our sponsors. The full schedule will be released soon.
 
 Don't forget to follow our [Facebook page](http://www.facebook.com/maratona) for photos and events announcements.
+
+You can also follow our lectures through our YouTube Channel.
