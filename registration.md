@@ -42,3 +42,6 @@ We are still finishing our budget. We will define the stipend in January.
 
 If you are a World Finalist or Brazilian Medalists, you must finish your registration on the system **without** payment. After that, send an email to rodolfo@ic.unicamp.br. Do not pay! I will mark your registration as complete without the payment.
 
+## Pre-registration required
+
+All participants must pre-register in our [online form](https://docs.google.com/forms/d/e/1FAIpQLSepyemGqKZ27PCtbcRYqkLEBwXnwR943B7i8aEKQ6w9tNzXHQ/viewform?usp=sf_link). Only pre-registered participants will be able to register into SBC web site.
