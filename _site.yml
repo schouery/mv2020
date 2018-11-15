@@ -1,0 +1,22 @@
+brand: Brazilian ICPC Summer School
+brand_img: img/sun.png
+
+bootswatch: cerulean # flatly, yeti, lumen,...
+navbar_inverse: false
+bootstrap: 3.3.6
+navbar_right_items: 0
+
+# Fill out your Google Analytics ID here
+google_analytics: UA-18337384-5
+
+
+reflinks:
+    maratona:
+        url: http://maratona.ime.usp.br
+        title: Maratona de Programação
+    ICPC:
+        url: http://https://icpc.baylor.edu/
+        title: International Collegiate Programming Contest
+    facebook:
+        url: http://www.facebook.com/maratona
+        title: Facebook Page
