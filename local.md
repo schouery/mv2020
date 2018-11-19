@@ -4,9 +4,8 @@ layout: page
 pager: true
 ---
 
-## Classrooms
-
 Our laboratories and classrooms are located in the Institute of Computing, building IC-3. All meals will be served at the University Restaurant.
+{.lead}
 
 ## How to arrive in Campinas?
 
