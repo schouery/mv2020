@@ -15,7 +15,7 @@ This year we will have two distinct classes and you should opt for them during t
 
 This class will have up to 90 students and we will invite one international experienced instructor per week to teach and create the contests.
 
-Registration to this class will be priorized by the following criteria
+Registration to this class will be prioritized by the following criteria
 
 1. You are a 2019 World Finalist
 1. You are a Brazilian Medalist (top 10 in the 2018 Brazilian Final)
@@ -35,6 +35,7 @@ Category | Registration | Transportation | Housing | Lunch | Dinner
 ---------|--------------|----------------|---------|-------|-------
 Brazilian World Finalist | free | included | stippend | included | included
 Brazilian Medalist | free | no | no | included | included
+Brazilian Regional Champion | free | no | no | included | included
 World Finalist | free | no | no | included | included
 Others | early R$300.00 / late R$350.00 | no | no | included | included
 
