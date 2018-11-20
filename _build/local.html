@@ -2,13 +2,15 @@
 <html>
   <head>
     <title>Local Information</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <!-- Bootstrap -->
     <link href="//netdna.bootstrapcdn.com/bootswatch/3.3.6/cerulean/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link href="/MaratonaVerao2019/css/site.css" rel="stylesheet" media="screen">
     <link href="/MaratonaVerao2019/css/syntax.css" rel="stylesheet" media="screen">
+    <link href="/MaratonaVerao2019/css/social.css" rel="stylesheet" media="screen">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -28,7 +30,16 @@
 </script>
   </head>
 
+
   <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.2';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
     <!-- Fixed navbar -->
     <div class="navbar navbar-fixed-top navbar-masthead navbar-default">
       <div class="container-fluid">
@@ -79,8 +90,7 @@
 
     <div class="col-md-9 content" role="main">
     <main>
-      <h3 id="classrooms">Classrooms</h3>
-<p>Our laboratories and classrooms are located in the Institute of Computing, building IC-3. All meals will be served at the University Restaurant.</p>
+      <p class="lead">Our laboratories and classrooms are located in the Institute of Computing, building IC-3. All meals will be served at the University Restaurant.</p>
 <h3 id="how-to-arrive-in-campinas">How to arrive in Campinas?</h3>
 <p>Our nearest airport is Viracopos (VCP), served by the following airlines: Azul, TAM, Gol, e Avianca. There is a direct bus line from the airport to downtown and central bus station managed by <a href="http://www.lirabus.com.br">LiraBus</a> (previously Caprioli), or you can take the city bus line 193 to the central bus terminal and bus 330 to Unicamp. A taxi from the airport to Unicamp will cost around R$120,00. We also have <a href="https://www.uber.com/invite/ncjcb">Uber</a> in Campinas.</p>
 <p>If you prefer flying to São Paulo, you can take a bus from <a href="http://www.lirabus.com.br">LiraBus</a> (previously Caprioli) to Campinas bus station, and take the 330 bus to Unicamp.</p>
@@ -106,7 +116,6 @@
             <a href="#"><strong>Local Information</strong></a>
             <div class="toc">
 <ul>
-<li><a href="#classrooms">Classrooms</a></li>
 <li><a href="#how-to-arrive-in-campinas">How to arrive in Campinas?</a></li>
 <li><a href="#housing">Housing</a></li>
 <li><a href="#organizing-committee">Organizing Committee</a></li>
@@ -136,6 +145,15 @@
             </div>
         </div>
 
+        <hr>
+
+        <div class="row">
+            <div class="col-md-2 content">
+                <p class="lead">Follow us</p>
+                <a href="https://www.facebook.com/maratona" class="fa fa-facebook"></a>
+                <a href="https://www.youtube.com/c/UnicampIC" class="fa fa-youtube"></a>
+            </div>
+        </div>
         <p>Website powered by <a href="http://urubu.jandecaluwe.com">Urubu</a></p>
     </div>
 

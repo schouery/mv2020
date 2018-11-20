@@ -2,13 +2,15 @@
 <html>
   <head>
     <title>Registration</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <!-- Bootstrap -->
     <link href="//netdna.bootstrapcdn.com/bootswatch/3.3.6/cerulean/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link href="/MaratonaVerao2019/css/site.css" rel="stylesheet" media="screen">
     <link href="/MaratonaVerao2019/css/syntax.css" rel="stylesheet" media="screen">
+    <link href="/MaratonaVerao2019/css/social.css" rel="stylesheet" media="screen">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -28,7 +30,16 @@
 </script>
   </head>
 
+
   <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.2';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
     <!-- Fixed navbar -->
     <div class="navbar navbar-fixed-top navbar-masthead navbar-default">
       <div class="container-fluid">
@@ -152,7 +163,7 @@
 </table>
 <p>We are still finishing our budget. We will define the stipend in January.</p>
 <p>If you are a World Finalist or Brazilian Medalists, you must finish your registration on the system <strong>without</strong> payment. After that, send an email to rodolfo@ic.unicamp.br. Do not pay! I will mark your registration as complete without the payment.</p>
-<p>For the Brazilian World Finalists, we are going to provide transportation. Do not buy any kind of transportation by yourself. We are will not reimburse you in such case.</p>
+<p>For the Brazilian World Finalists, we are going to provide transportation. Do not buy any kind of transportation by yourself. We will not reimburse you in such case.</p>
 <h3 id="pre-registration-required">Pre-registration required</h3>
 <p>All participants must pre-register in our <a href="https://docs.google.com/forms/d/e/1FAIpQLSepyemGqKZ27PCtbcRYqkLEBwXnwR943B7i8aEKQ6w9tNzXHQ/viewform?usp=sf_link">online form</a>. Only pre-registered participants will be able to register into SBC web site.</p>
     </main>
@@ -202,6 +213,15 @@
             </div>
         </div>
 
+        <hr>
+
+        <div class="row">
+            <div class="col-md-2 content">
+                <p class="lead">Follow us</p>
+                <a href="https://www.facebook.com/maratona" class="fa fa-facebook"></a>
+                <a href="https://www.youtube.com/c/UnicampIC" class="fa fa-youtube"></a>
+            </div>
+        </div>
         <p>Website powered by <a href="http://urubu.jandecaluwe.com">Urubu</a></p>
     </div>
 

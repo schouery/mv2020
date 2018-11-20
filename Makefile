@@ -1,5 +1,3 @@
-GH-PAGES = ${HOME}/dev/urubu-gh-pages/
-
 all: build
 
 build:
