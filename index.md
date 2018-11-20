@@ -21,4 +21,4 @@ This edition will have lectures from Monday to Saturday. Each thursday will be d
 
 Don't forget to follow our [Facebook page](http://www.facebook.com/maratona) for photos and events announcements.
 
-You can also follow our lectures through our YouTube Channel.
+You can also follow our lectures through our [YouTube Channel](https://www.youtube.com/channel/UCraCE6iWUcFCJSp-vmO1D3A/).
