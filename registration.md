@@ -43,7 +43,7 @@ We are still finishing our budget. We will define the stipend in January.
 
 If you are a World Finalist or Brazilian Medalists, you must finish your registration on the system **without** payment. After that, send an email to rodolfo@ic.unicamp.br. Do not pay! I will mark your registration as complete without the payment.
 
-For the Brazilian World Finalists, we are going to provide transportation. Do not buy any kind of transportation by yourself. We are will not reimburse you in such case.
+For the Brazilian World Finalists, we are going to provide transportation. Do not buy any kind of transportation by yourself. We will not reimburse you in such case.
 
 ## Pre-registration required
 
