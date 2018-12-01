@@ -55,8 +55,8 @@ As stated previously in this page, we required pre-registration from all student
 
 We decided to split thw school into two classes and we are processing the list into rounds.
 
-1. First round: 70 students for the World Final Class
-2. Second round: 70 students for the Brazilian Final Class
+1. First round: about 70 students for the World Final Class
+2. Second round: about 70 students for the Brazilian Final Class
 3. Third round: 15 students for the World Final Class
 4. Fourth round: 15 students for the Brazilian Final Class
 5. Fifth round: the remaining students for both classes
