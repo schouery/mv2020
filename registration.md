@@ -41,10 +41,30 @@ Others | early R$300.00 / late R$350.00 | no | no | included | included
 
 We are still finishing our budget. We will define the stipend in January.
 
-If you are a World Finalist or Brazilian Medalists, you must finish your registration on the system **without** payment. After that, send an email to rodolfo@ic.unicamp.br. Do not pay! I will mark your registration as complete without the payment.
+If you are a World Finalist or Brazilian Medalists, you must finish your registration on the system **without** payment. After that, just wait, we are going to remove the payment requirement for you.
 
 For the Brazilian World Finalists, we are going to provide transportation. Do not buy any kind of transportation by yourself. We will not reimburse you in such case.
 
 ## Pre-registration required
 
 All participants must pre-register in our [online form](https://docs.google.com/forms/d/e/1FAIpQLSepyemGqKZ27PCtbcRYqkLEBwXnwR943B7i8aEKQ6w9tNzXHQ/viewform?usp=sf_link). Only pre-registered participants will be able to register into SBC web site.
+
+## Students selection process
+
+As stated previously in this page, we required pre-registration from all students. In the previous years, we used the first come firt served (FIFO) method. We did not considered that method good enough.
+
+We decided to split thw school into two classes and we are processing the list into rounds.
+
+1. First round: 70 students for the World Final Class
+2. Second round: 70 students for the Brazilian Final Class
+3. Third round: 15 students for the World Final Class
+4. Fourth round: 15 students for the Brazilian Final Class
+5. Fifth round: the remaining students for both classes
+
+We choose to split the call because we know that some students will not fill their registration and we need time to process the list and create aditional backlist of students for the next phase.
+
+We are sending emails for each round to the selected students. So far, we are in round 2, I have just send the second round email.
+
+If you have not received emails yet, we kindly ask you to wait. We are at our speed limit and answering messages both through email and Facebook is taking more time that could be used to speedup the registration process. We also receive emails of people that made mistakes in the registration forms (like a team that split the registration into two classes). Some of these mistakes can be fixed, some can not.
+
+We intend to finish the registrations by December 10th, probably soon.

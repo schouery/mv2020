@@ -10,4 +10,3 @@ We will update this page to include links to each day activity and extra materia
 ## World Final Class
 
 ## Brazilian Final Class
-
