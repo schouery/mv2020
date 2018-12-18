@@ -13,7 +13,7 @@ This year we will have two distinct classes and you should opt for them during t
 
 ### World Final Class
 
-This class will have up to 90 students and we will invite one international experienced instructor per week to teach and create the contests.
+This class will have up to 90 students and we will invite one international experienced instructor per week to teach and create the contests. This class will be taught in English.
 
 Registration to this class will be prioritized by the following criteria
 
@@ -27,7 +27,7 @@ If you think you have a previous acomplishment compatible to any of this list, y
 
 ### Brazilian Final Class
 
-This class will have up to 90 students and we will focus on the next year Brazilian Finals. You should be able to compete next year.
+This class will have up to 90 students and we will focus on the next year Brazilian Finals. You should be able to compete next year. This class will be taught in Portuguese.
 
 ## Registration cost
 
