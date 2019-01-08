@@ -53,3 +53,9 @@ Atua como Professor Doutor em regime de dedicação exclusiva no Instituto de Co
 ![Jonathan Queiroz](img/jonathan_small.jpg)
 
 Cientista da Computação pela UFBA, finalista mundial do ACM-ICPC em 2016 e 2017, medalhista de ouro e prata na Maratona de Programação.
+
+### Gabriel Poesia
+
+![Gabriel Poesia](img/gabriel_small.jpg)
+
+Gabriel é mestre em Ciência da Computação pela UFMG. Participou da Maratona durante toda a graduação, tendo sido finalista mundial em 2015. Continua competindo esporadicamente em competições online, obtendo a melhor colocação brasileira no round 2 do Google Code Jam 2018. Atualmente, tenta empreender ensinando programação a pessoas de outros backgrounds.
