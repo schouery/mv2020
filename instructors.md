@@ -38,24 +38,24 @@ We are inviting experienced Brazilian former competitors/coaches/trainers to cre
 
 ### Juliana Freire
 
-![Juliana Freire](img/juliana_small.jpg)
+![Juliana Freire Photo](img/juliana_small.jpg)
 
 Engenheira de Computação e Mestre em Matemática pela PUC-Rio, PhD em Matemática por NYU. Participei da Maratona de Programação como integrante de equipe e posteriormente como coach; fomos qualificados para a final mundial em 2003. Atualmente sou professora no departamento de Matemática na PUC-Rio.
 
 ### Fabio Usberti
 
-![Fabio Usberti](img/fabio_small.jpg)
+![Fabio Usberti Photo](img/fabio_small.jpg)
 
 Atua como Professor Doutor em regime de dedicação exclusiva no Instituto de Computação (IC) da Universidade Estadual de Campinas (UNICAMP). Possui graduação em Engenharia Agrícola (2004) e Ciência da Computação (2010) pela UNICAMP. Concluiu o mestrado em Engenharia Elétrica (2007) e o doutorado em Engenharia Elétrica (2012) na Faculdade de Engenharia Elétrica e de Computação (FEEC) da UNICAMP. Técnico das equipes de maratona do IC-Unicamp em 2015, 2016 e 2018. Possui interesse nas áreas de Pesquisa Operacional e Otimização Combinatória.
 
 ### Jonathan Queiroz
 
-![Jonathan Queiroz](img/jonathan_small.jpg)
+![Jonathan Queiroz Photo](img/jonathan_small.jpg)
 
 Cientista da Computação pela UFBA, finalista mundial do ACM-ICPC em 2016 e 2017, medalhista de ouro e prata na Maratona de Programação.
 
 ### Gabriel Poesia
 
-![Gabriel Poesia](img/gabriel_small.jpg)
+![Gabriel Poesia Photo](img/gabriel_small.jpg)
 
 Gabriel é mestre em Ciência da Computação pela UFMG. Participou da Maratona durante toda a graduação, tendo sido finalista mundial em 2015. Continua competindo esporadicamente em competições online, obtendo a melhor colocação brasileira no round 2 do Google Code Jam 2018. Atualmente, tenta empreender ensinando programação a pessoas de outros backgrounds.

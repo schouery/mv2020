@@ -18,6 +18,38 @@ Dinner   | 18:15-19:00       | 18:00-19:00
 
 Lectures will start at 8:30 and go up to 11:30, when students will go to lunch. The afternoon contest will start at 13:15 and go up to 18:15, when students will go to dinner.
 
+### Instructors
+
+**First Week:** Andrew Stankevich
+
+**Second Week:** Adam Bardashevich
+
 ## Brazilian Final Class Schedule
 
 Contest will start at 8:00 and go up to 13:00, when students will go to lunch. The afternoon lecture will start at 14:30 and go up to 18:00, when students will go to dinner.
+
+Date     | Instructor
+---------|-----------
+Jan 21st | Juliana Freire
+Jan 22nd | Juliana Freire
+Jan 23rd | Fábio Usberti
+Jan 25th | Gabriel Poesia
+Jan 26th | Gabriel Poesia
+Jan 28th | Jonathan Queiroz
+Jan 29th | Jonathan Queiroz
+Jan 30th | Fábio Usberti
+Feb 1st  | Dilson Guimarães
+Feb 2nd  | Dilson Guimarães
+
+## Sponsor Days
+
+Each Thursday will be dedicated to our sponsosrs.
+
+### January 24th
+
+Talks from Uber, VTEX, Samsung, ABInbev, Venturus/Motorola. All talks will be at Unicamp Convention Center.
+
+### January 31st
+
+TFG event in the morning and Google talk in the afternoon. Detailed scheduled will be released soon.
+
