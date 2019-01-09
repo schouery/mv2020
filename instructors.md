@@ -59,3 +59,9 @@ Cientista da Computação pela UFBA, finalista mundial do ACM-ICPC em 2016 e 201
 ![Gabriel Poesia Photo](img/gabriel_small.jpg)
 
 Gabriel é mestre em Ciência da Computação pela UFMG. Participou da Maratona durante toda a graduação, tendo sido finalista mundial em 2015. Continua competindo esporadicamente em competições online, obtendo a melhor colocação brasileira no round 2 do Google Code Jam 2018. Atualmente, tenta empreender ensinando programação a pessoas de outros backgrounds.
+
+### Dilson Guimarães
+
+![Dilson Guimarães Photo](img/dilson_small.jpg)
+
+Mestre em Ciência da Computação pela Universidade Federal de Minas gerais. Participou da Maratona de Programação durante boa parte da graduação, sendo finalista mundial do ACM-ICPC em 2013 como competidor e em 2015 como coach. Atualmente, doutorando em Ciência da Computação pela Universidade Federal de Minas Gerais com interesse principalmente na área de otimização combinatória.
