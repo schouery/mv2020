@@ -47,7 +47,7 @@ Each Thursday will be dedicated to our sponsosrs.
 
 ### January 24th
 
-Talks from Uber, VTEX, Samsung, ABInbev, Venturus/Motorola. All talks will be at Unicamp Convention Center.
+Talks from Uber, VTEX, ABInbev, Venturus/Motorola. All talks will be at Unicamp Convention Center.
 
 ### January 31st
 
