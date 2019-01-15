@@ -47,7 +47,17 @@ Each Thursday will be dedicated to our sponsosrs.
 
 ### January 24th
 
-Talks from Uber, VTEX, ABInbev, Venturus/Motorola. All talks will be at Unicamp Convention Center.
+All talks this day will be at Unicamp's Convention Center, auditorium II. Please, plan to arrive before the first talk.
+
+Time  | Sponsor
+------|--------
+9:00  | Venturus/Morotola
+10:15 | Uber
+11:30 | Food provided by Microsoft
+13:15 | ABInBev
+14:30 | Samsung
+15:30 | VTEX
+16:30 | Food provided by VTEX
 
 ### January 31st
 
