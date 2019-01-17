@@ -16,6 +16,12 @@ Dinner   | 18:15-19:00       | 18:00-19:00
 
 All lectures and contests will be held on [IC-3 building](https://www.google.com/maps/place/Instituto+de+Computa%C3%A7%C3%A3o/@-22.8132283,-47.0638092,18z/data=!4m5!3m4!1s0x0:0x35cb36a6a312ea5b!8m2!3d-22.8137764!4d-47.0640004). Lunch and dinner will be at the [University Restaurant](https://www.google.com/maps/place/Restaurante+Universit%C3%A1rio+-+Unicamp/@-22.8169862,-47.0728041,18z/data=!4m5!3m4!1s0x0:0x21d9dab5b4cf75ea!8m2!3d-22.817514!4d-47.0721962)
 
+## Registration and Opening Ceremony
+
+We will start distributing student material at 7:30 on Monday, January 21st for the Brazilian Final Class and at 8:00 for the World Final Class.
+
+We will have two opening cerimonies, one for each class. The World Final opening ceremony will be at 8:30 and the Brazilian Final opening ceremony will be at 14:30.
+
 ## World Final Class Schedule
 
 Lectures will start at 8:30 and go up to 11:30, when students will go to lunch. The afternoon contest will start at 13:15 and go up to 18:15, when students will go to dinner.
