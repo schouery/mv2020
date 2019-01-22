@@ -63,7 +63,6 @@ Time  | Sponsor
 ------|--------
 9:00  | Venturus/Morotola
 10:15 | Uber
-11:30 | Food provided by Microsoft
 13:15 | ABInBev
 14:30 | Samsung
 15:30 | VTEX
