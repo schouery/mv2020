@@ -11,8 +11,8 @@ We will update this page to include links to each day activity and extra materia
 
 Day      | Lecture | Contest
 ---------|---------|--------
-Jan 21st | [Lecture](https://www.youtube.com/watch?v=b0aM90jxeOo) | [Contest](http://neerc.ifmo.ru/trains/brazil/2019/20190121.html)
-Jan 22nd | |
+Jan 21st | [Lecture](https://www.youtube.com/watch?v=b0aM90jxeOo) | [Contest](contests-w/20190121.pdf) - [ScoreBoard](http://neerc.ifmo.ru/trains/brazil/2019/20190121.html)
+Jan 22nd | [Lecture](https://www.youtube.com/watch?v=nPAdIbSf10g) |
 Jan 23rd | |
 Jan 25th | |
 Jan 26th | |
@@ -26,8 +26,8 @@ Feb 2nd  | |
 
 Day      | Lecture | Contest
 ---------|---------|--------
-Jan 21st | [Lecture](https://www.youtube.com/watch?v=bvUYEJoTEzs) | [Contest](https://www.urionlinejudge.com.br/judge/en/tournaments/rank/1501)
-Jan 22nd | |
+Jan 21st | [Lecture](https://www.youtube.com/watch?v=bvUYEJoTEzs) | [Contest](contests-b/20190121.pdf) - [ScoreBoard](https://www.urionlinejudge.com.br/judge/en/tournaments/rank/1501)
+Jan 22nd | | [Contest](contests-b/20190122.pdf) - [ScoreBoard](https://vjudge.net/contest/280166#rank)
 Jan 23rd | |
 Jan 25th | |
 Jan 26th | |
