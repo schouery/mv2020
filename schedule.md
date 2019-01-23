@@ -66,7 +66,7 @@ Time  | Sponsor
 13:15 | ABInBev
 14:30 | Samsung
 15:30 | VTEX
-16:30 | Food provided by VTEX
+16:30 | Dinner provided by VTEX
 
 ### January 31st
 
