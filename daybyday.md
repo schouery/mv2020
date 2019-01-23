@@ -13,7 +13,7 @@ Day      | Lecture | Contest
 ---------|---------|--------
 Jan 21st | [Lecture](https://www.youtube.com/watch?v=b0aM90jxeOo) | [Contest](contests-w/20190121.pdf) - [ScoreBoard](http://neerc.ifmo.ru/trains/brazil/2019/20190121.html)
 Jan 22nd | [Lecture](https://www.youtube.com/watch?v=nPAdIbSf10g) | [Contest](contests-w/20190122.pdf) - [ScoreBoard](http://neerc.ifmo.ru/trains/brazil/2019/20190122.html)
-Jan 23rd | |
+Jan 23rd | [Lecture](https://www.youtube.com/watch?v=QBE8HQCptGE) | [Contest](contests-w/20190123.pdf) - [ScoreBoard](http://neerc.ifmo.ru/trains/brazil/2019/20190123.html)
 Jan 25th | |
 Jan 26th | |
 Jan 28th | |
@@ -22,13 +22,15 @@ Jan 30th | |
 Feb 1st  | |
 Feb 2nd  | |
 
+Remote participants can subscribe at this [link](https://docs.google.com/forms/d/e/1FAIpQLSfL7jxcfCOFS3b1BxaE82qzcRHSIZtHOrwOJC-_gkRegfR_cg/viewform).
+
 ## Brazilian Final Class
 
 Day      | Lecture | Contest
 ---------|---------|--------
 Jan 21st | [Lecture](https://www.youtube.com/watch?v=bvUYEJoTEzs) | [Contest](contests-b/20190121.pdf) - [ScoreBoard](https://www.urionlinejudge.com.br/judge/en/tournaments/rank/1501)
 Jan 22nd | [Lecture](https://www.youtube.com/watch?v=EkqHbpZRoSM) | [Contest](contests-b/20190122.pdf) - [ScoreBoard](https://vjudge.net/contest/280166#rank)
-Jan 23rd | |
+Jan 23rd | [Lecture](https://www.youtube.com/watch?v=KwDSS8_-FhA) | [Contest](contests-b/20190123.pdf)
 Jan 25th | |
 Jan 26th | |
 Jan 28th | |
