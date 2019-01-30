@@ -18,7 +18,7 @@ Jan 25th | [Lecture](https://www.youtube.com/watch?v=0T5-pyl-vK0) | [Contest](co
 Jan 26th | [Lecture](https://www.youtube.com/watch?v=vNJ4mv9byRU) | ["Hard" Contest](contests-w/20190126-hard.pdf) ([ScoreBoard](http://neerc.ifmo.ru/trains/brazil/2019/20190126.html)) - ["Easy" Contest](contests-w/20190126-easy.pdf) ([ScoreBoard](http://neerc.ifmo.ru/trains/brazil/2019/20190126e.html))
 Jan 28th | [Lecture](https://www.youtube.com/watch?v=jnNPN_LJhrw) | [Contest](contests-w/20190128.pdf)
 Jan 29th | [Lecture](https://www.youtube.com/watch?v=ZtiRhvHltAo) | [Contest](contests-w/20190129.pdf)
-Jan 30th | |
+Jan 30th | [Lecture](https://www.youtube.com/watch?v=0gYmZ4bU6sE) | [Contest](contests-w/20190130.pdf)
 Feb 1st  | |
 Feb 2nd  | |
 
@@ -35,6 +35,6 @@ Jan 25th | [Lecture](https://www.youtube.com/watch?v=QoQOUfImlN4) | [Contest](co
 Jan 26th | [Lecture](https://www.youtube.com/watch?v=nGXFc-cL-uA) | [Contest](contests-b/20190126.pdf) - [ScoreBoard](https://vjudge.net/contest/280943#rank)
 Jan 28th | [Lecture](https://www.youtube.com/watch?v=ARgMteH_K7A) | [Contest](contests-b/20190128.pdf) - [ScoreBoard](https://vjudge.net/contest/280563#rank)
 Jan 29th | [Lecture](https://www.youtube.com/watch?v=5kk_5HcwqOg) | [Contest](contests-b/20190129.pdf) - [ScoreBoard](https://vjudge.net/contest/281335#rank)
-Jan 30th | |
+Jan 30th | [Lecture](https://www.youtube.com/watch?v=oE190LF9VbE) | [Contest](contests-b/20190130.pdf) - [ScoreBoard](https://vjudge.net/contest/279947#rank)
 Feb 1st  | |
 Feb 2nd  | |
