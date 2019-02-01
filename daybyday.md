@@ -19,7 +19,7 @@ Jan 26th | [Lecture](https://www.youtube.com/watch?v=vNJ4mv9byRU) | ["Hard" Cont
 Jan 28th | [Lecture](https://www.youtube.com/watch?v=jnNPN_LJhrw) | [Contest](contests-w/20190128.pdf)
 Jan 29th | [Lecture](https://www.youtube.com/watch?v=ZtiRhvHltAo) | [Contest](contests-w/20190129.pdf)
 Jan 30th | [Lecture](https://www.youtube.com/watch?v=0gYmZ4bU6sE) | [Contest](contests-w/20190130.pdf)
-Feb 1st  | |
+Feb 1st  | [Lecture](https://www.youtube.com/watch?v=g16Zi61BDHs) | [Contest](contests-w/20190201.pdf)
 Feb 2nd  | |
 
 Remote participants can subscribe at this [link](https://docs.google.com/forms/d/e/1FAIpQLSfL7jxcfCOFS3b1BxaE82qzcRHSIZtHOrwOJC-_gkRegfR_cg/viewform).
@@ -36,5 +36,5 @@ Jan 26th | [Lecture](https://www.youtube.com/watch?v=nGXFc-cL-uA) | [Contest](co
 Jan 28th | [Lecture](https://www.youtube.com/watch?v=ARgMteH_K7A) | [Contest](contests-b/20190128.pdf) - [ScoreBoard](https://vjudge.net/contest/280563#rank)
 Jan 29th | [Lecture](https://www.youtube.com/watch?v=5kk_5HcwqOg) | [Contest](contests-b/20190129.pdf) - [ScoreBoard](https://vjudge.net/contest/281335#rank)
 Jan 30th | [Lecture](https://www.youtube.com/watch?v=oE190LF9VbE) | [Contest](contests-b/20190130.pdf) - [ScoreBoard](https://vjudge.net/contest/279947#rank)
-Feb 1st  | |
+Feb 1st  | [Lecture](https://www.youtube.com/watch?v=9nI27RGTRQY) | [Contest](contests-b/20190201.pdf) - [ScoreBoard](https://vjudge.net/contest/282103#rank)
 Feb 2nd  | |
