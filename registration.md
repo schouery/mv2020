@@ -17,11 +17,11 @@ This class will have up to 90 students and we will invite one international expe
 
 Registration to this class will be prioritized by the following criteria
 
-1. You are a 2019 World Finalist
-1. You are a Brazilian Medalist (top 10 in the 2018 Brazilian Final)
-1. You are registered for the 2019 IOI
+1. You are a 2020 World Finalist
+1. You are a Brazilian Medalist (top 10 in the 2019 Brazilian Final)
+1. You are registered for the 2020 IOI
 1. You are invited by OBI
-1. Your team solved, at least, 7 problems in the 2018 Brazilian Final and is still able to compete next year
+1. Your team solved, at least, 7 problems in the 2019 Brazilian Final and is still able to compete next year
 
 If you think you have a previous acomplishment compatible to any of this list, you can register to the World Final Class and explain you acomplishment. We will evaluate it based on the availability of slots.
 

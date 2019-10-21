@@ -1,6 +1,6 @@
 brand: Brazilian ICPC Summer School
 brand_img: img/sun.png
-baseurl: MaratonaVerao2019
+baseurl: MaratonaVerao2020
 
 bootswatch: cerulean # flatly, yeti, lumen,...
 navbar_inverse: false

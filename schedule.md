@@ -18,11 +18,11 @@ All lectures and contests will be held on [IC-3 building](https://www.google.com
 
 ## Registration, Opening Ceremony and Integration
 
-We will start distributing student material at 7:30 on Monday, January 21st for the Brazilian Final Class and at 8:00 for the World Final Class.
+We will start distributing student material at 7:30 on Monday, January 20st for the Brazilian Final Class and at 8:00 for the World Final Class.
 
 We will have two opening cerimonies, one for each class. The World Final opening ceremony will be at 8:30 and the Brazilian Final opening ceremony will be at 14:30.
 
-We will have our traditional pizza on Saturday, 26th from 6PM to 10PM.
+We will have our traditional pizza on Saturday, 25th from 6PM to 10PM.
 
 ## World Final Class Schedule
 
@@ -30,49 +30,23 @@ Lectures will start at 8:30 and go up to 11:30, when students will go to lunch. 
 
 ### Instructors
 
-**First Week:** Andrew Stankevich
-
-**Second Week:** Adam Bardashevich
+**Coming Soon** 
 
 ## Brazilian Final Class Schedule
 
-Contest will start at 8:00 and go up to 13:00, when students will go to lunch. The afternoon lecture will start at 14:30 and go up to 18:00, when students will go to dinner.
+**Coming Soon** 
 
-Date     | Instructor
----------|-----------
-Jan 21st | Juliana Freire
-Jan 22nd | Juliana Freire
-Jan 23rd | Fábio Usberti
-Jan 25th | Gabriel Poesia
-Jan 26th | Gabriel Poesia
-Jan 28th | Jonathan Queiroz
-Jan 29th | Jonathan Queiroz
-Jan 30th | Fábio Usberti
-Feb 1st  | Dilson Guimarães
-Feb 2nd  | Dilson Guimarães
 
 ## Sponsor Days
 
 Each Thursday will be dedicated to our sponsosrs.
 
-### January 24th
+### January 23th
 
-All talks this day will be at [Unicamp's Convention Center](https://www.google.com/maps/place/Centro+de+Conven%C3%A7%C3%B5es/@-22.8147326,-47.0736946,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8c14cff6a4ae5:0x5cc330b4c087f06!8m2!3d-22.8147326!4d-47.0715006), auditorium II. Please, plan to arrive before the first talk.
+**Coming Soon** 
 
-Time  | Sponsor
-------|--------
-9:00  | Venturus/Morotola
-10:15 | Uber
-13:15 | ABInBev
-14:30 | Samsung
-15:30 | VTEX
-16:30 | Dinner provided by VTEX
 
-### January 31st
+### January 30th
 
-TFG event in the morning and Google talk in the afternoon. Talks will be at [CB I](https://www.google.com/maps/place/Ciclo+B%C3%A1sico+I+-+CB/@-22.8147326,-47.0736946,17z/data=!4m12!1m6!3m5!1s0x94c8c14cff6a4ae5:0x5cc330b4c087f06!2sCentro+de+Conven%C3%A7%C3%B5es!8m2!3d-22.8147326!4d-47.0715006!3m4!1s0x0:0xf3522e37359f743c!8m2!3d-22.8174395!4d-47.0683667) and activities in IC3.
+**Coming Soon** 
 
-Time  | Sponsor
-------|--------
-8:30  | TFG
-15:00 | Google
