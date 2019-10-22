@@ -11,18 +11,18 @@ We will update this page to include links to each day activity and extra materia
 
 Day      | Lecture | Contest
 ---------|---------|--------
-Jan 20st | [Lecture]() | [Contest]()
-Jan 21nd | [Lecture]() | [Contest]()
-Jan 22rd | [Lecture]() | [Contest]()
-Jan 23th | [Lecture]() | [Contest]()
-Jan 24th | [Lecture]() | [Contest]()
-Jan 25th | [Lecture]() | [Contest]()
-Jan 27th | [Lecture]() | [Contest]()
-Jan 28th | [Lecture]() | [Contest]()
-Jan 29th | [Lecture]() | [Contest]()
-Jan 30th | [Lecture]() | [Contest]()
-Jan 31th | [Lecture]() | [Contest]()
-Feb 1st  | [Lecture]() | [Contest]()
+Jan 20st | Lecture | Contest
+Jan 21nd | Lecture | Contest
+Jan 22rd | Lecture | Contest
+Jan 23th | Lecture | Contest
+Jan 24th | Lecture | Contest
+Jan 25th | Lecture | Contest
+Jan 27th | Lecture | Contest
+Jan 28th | Lecture | Contest
+Jan 29th | Lecture | Contest
+Jan 30th | Lecture | Contest
+Jan 31th | Lecture | Contest
+Feb 1st  | Lecture | Contest
 
 <!-- Remote participants can subscribe at this [link](https://docs.google.com/forms/d/e/1FAIpQLSfL7jxcfCOFS3b1BxaE82qzcRHSIZtHOrwOJC-_gkRegfR_cg/viewform). -->
 
@@ -30,15 +30,15 @@ Feb 1st  | [Lecture]() | [Contest]()
 
 Day      | Lecture | Contest
 ---------|---------|--------
-Jan 20st | [Lecture]() | [Contest]()
-Jan 21nd | [Lecture]() | [Contest]()
-Jan 22rd | [Lecture]() | [Contest]()
-Jan 23th | [Lecture]() | [Contest]()
-Jan 24th | [Lecture]() | [Contest]()
-Jan 25th | [Lecture]() | [Contest]()
-Jan 27th | [Lecture]() | [Contest]()
-Jan 28th | [Lecture]() | [Contest]()
-Jan 29th | [Lecture]() | [Contest]()
-Jan 30th | [Lecture]() | [Contest]()
-Jan 31th | [Lecture]() | [Contest]()
-Feb 1st  | [Lecture]() | [Contest]()
+Jan 20st | Lecture | Contest
+Jan 21nd | Lecture | Contest
+Jan 22rd | Lecture | Contest
+Jan 23th | Lecture | Contest
+Jan 24th | Lecture | Contest
+Jan 25th | Lecture | Contest
+Jan 27th | Lecture | Contest
+Jan 28th | Lecture | Contest
+Jan 29th | Lecture | Contest
+Jan 30th | Lecture | Contest
+Jan 31th | Lecture | Contest
+Feb 1st  | Lecture | Contest
