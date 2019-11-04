@@ -2,6 +2,7 @@
 title: Brazilian ICPC Summer School
 layout: home
 content:
+    - wiicpc
     - daybyday
     - registration
     - instructors
