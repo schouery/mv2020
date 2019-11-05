@@ -33,11 +33,14 @@ This class will have up to 90 students and we will focus on the next year Brazil
 
 Category | Registration | Transportation | Housing | Lunch | Dinner
 ---------|--------------|----------------|---------|-------|-------
-Brazilian World Finalist | free | included | stippend | included | included
+Brazilian World Finalist | free | included | stipend | included | included
+Invited Women* | free | included | stippend | included | included
 Brazilian Medalist | free | no | no | included | included
 Brazilian Regional Champion | free | no | no | included | included
 World Finalist | free | no | no | included | included
 Others | early R$300.00 / late R$350.00 | no | no | included | included
+
+\*Our goal is to enhance the experience of women in the Brazilian ICPC Summer School and thereby increase the number and impact of women in Computer Science. Free registration for all women, but we have limited vacancies to include all expenses.
 
 We are still finishing our budget. We will define the stipend in January.
 
