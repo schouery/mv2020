@@ -50,7 +50,7 @@ For the Brazilian World Finalists, we are going to provide transportation. Do no
 
 ## Pre-registration required
 
-All participants must pre-register in our [online form](https://docs.google.com/forms/d/e/1FAIpQLSepyemGqKZ27PCtbcRYqkLEBwXnwR943B7i8aEKQ6w9tNzXHQ/viewform?usp=sf_link). Only pre-registered participants will be able to register into SBC web site.
+All participants must pre-register in our [online form](https://forms.gle/2TPXJSNDFZveDEaS9). Only pre-registered participants will be able to register into SBC web site.
 
 ## Students selection process
 
