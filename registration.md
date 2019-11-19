@@ -34,7 +34,7 @@ This class will have up to 90 students and we will focus on the next year Brazil
 Category | Registration | Transportation | Housing | Lunch | Dinner
 ---------|--------------|----------------|---------|-------|-------
 Brazilian World Finalist | free | included | stipend | included | included
-Invited Women* | free | included | stippend | included | included
+Invited Women* | free | included | stipend | included | included
 Brazilian Medalist | free | no | no | included | included
 Brazilian Regional Champion | free | no | no | included | included
 World Finalist | free | no | no | included | included
