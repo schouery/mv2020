@@ -59,19 +59,19 @@ As stated previously in this page, we required pre-registration from all student
 We decided to split the school into two classes and we are processing the list into rounds.
 
 1. First round: about 70 students for the World Final Class
-2. Second round: about 70 students for the Brazilian Final Class
+2. Second round: about 50 students for the Brazilian Final Class
 3. Third round: 15 students for the World Final Class
 4. Fourth round: 15 students for the Brazilian Final Class
 5. Fifth round: the remaining students for both classes
 
 We choose to split the call because we know that some students will not fill their registration and we need time to process the list and create aditional backlist of students for the next phase.
 
-
-<!--
 We are sending emails for each round to the selected students.
 
 So far, we are in round 2, I have just send the second round email.
 
 If you have not received emails yet, we kindly ask you to wait. We are at our speed limit and answering messages both through email and Facebook is taking more time that could be used to speedup the registration process. We also receive emails of people that made mistakes in the registration forms (like a team that split the registration into two classes). Some of these mistakes can be fixed, some can not.
 
-We intend to finish the registrations by December 10th. -->
+We intend to finish the registrations by December 20th.
+
+We will update this page with new information.
