@@ -52,9 +52,9 @@ For the Brazilian World Finalists, we are going to provide transportation. Do no
 
 All participants must pre-register in our [online form](https://forms.gle/2TPXJSNDFZveDEaS9). Only pre-registered participants will be able to register into SBC web site.
 
-After being selected in the pre-registration, the student will receive an invitation letter and must register in the [SBC registration web site](https://centraldesistemas.sbc.org.br/ecos/brsummerschool2020). Students that were not selected should no register. We will accept only students with an invitation letter from the organizers.
+After being selected in the pre-registration, the student will receive an invitation letter and must register in the [SBC registration web site](https://centraldesistemas.sbc.org.br/ecos/brsummerschool2020). Students that were not selected should no register. We will accept only students with an invitation letter from the organizers. Registration and payments (if applicable) must be done until December, 26th, 2019.
 
-Our cancelation policy is the following: until January, 10th, 2020, the can return 80% of the value paid in the registration at school. After this date, no value will be returned. In order to request the cancelation of your registration, please write an email to [faturamento@sbc.org.br](mailto:faturamento@sbc.org.br).
+Our cancelation policy is the following: until December, 20th, 2020, the can return 80% of the value paid in the registration at school. After this date, no value will be returned. In order to request the cancelation of your registration, please write an email to [faturamento@sbc.org.br](mailto:faturamento@sbc.org.br).
 
 ## Students selection process
 
