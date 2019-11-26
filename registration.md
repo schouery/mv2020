@@ -17,9 +17,9 @@ This class will have up to 90 students and we will invite one international expe
 
 Registration to this class will be prioritized by the following criteria
 
-1. You are a 2019 World Finalist
-1. You are a Brazilian Medalist (top 10 in the 2018 Brazilian Final)
-1. You are registered for the 2019 IOI
+1. You are a 2020 World Finalist
+1. You are a Brazilian Medalist (top 10 in the 2019 Brazilian Final)
+1. You are registered for the 2020 IOI
 1. You are invited by the organizers
 1. Your team solved, at least, 6 problems in the 2019 Brazilian Final and is still able to compete next year
 
@@ -51,6 +51,10 @@ For the Brazilian World Finalists, we are going to provide transportation. Do no
 ## Pre-registration required
 
 All participants must pre-register in our [online form](https://forms.gle/2TPXJSNDFZveDEaS9). Only pre-registered participants will be able to register into SBC web site.
+
+After being selected in the pre-registration, the student will receive an invitation letter and must register in the [SBC registration web site](https://centraldesistemas.sbc.org.br/ecos/brsummerschool2020). Students that were not selected should no register. We will accept only students with an invitation letter from the organizers.
+
+Our cancelation policy is the following: until January, 10th, 2020, the can return 80% of the value paid in the registration at school. After this date, no value will be returned. In order to request the cancelation of your registration, please write an email to [faturamento@sbc.org.br](mailto:faturamento@sbc.org.br).
 
 ## Students selection process
 
