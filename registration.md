@@ -38,9 +38,18 @@ Invited Women* | free | included | stipend | included | included
 Brazilian Medalist | free | no | no | included | included
 Brazilian Regional Champion | free | no | no | included | included
 World Finalist | free | no | no | included | included
-Others | early R$300.00 / late R$350.00 | no | no | included | included
+Others | see below | no | no | included | included
 
 \*Our goal is to enhance the experience of women in the Brazilian ICPC Summer School and thereby increase the number and impact of women in Computer Science. Free registration for all women, but we have limited vacancies to include all expenses.
+
+Category | Price
+---------|------
+Highschool or Undergrad Student associated to SBC with paid annual fee | R$ 215,00
+Highschool or Undergrad Student not associated to SBC (best option: Registration + association to SBC) | R$ 236,00
+Highschool or Undergrad Student not associated to SBC | R$ 279,00
+Graduate Student associated to SBC with paid annual fee | R$ 215,00
+Graduate Student not associated to SBC (best option: Registration + association to SBC) | R$ 300,00
+Graduate Student not associated to SBC | R$ 322,00
 
 We are still finishing our budget. We will define the stipend in January.
 
