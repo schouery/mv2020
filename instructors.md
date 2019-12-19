@@ -17,7 +17,13 @@ Ali is an International Olympiad in Informatics (IOI) 2000 gold medalist, who gr
 
 ### Ali Behjati
 
-Coming Soon
+![Ali Behjati Photo](img/Ali-Behjati_small.jpg)
+
+Ali Behjati will be the instructor for our second week. His main acomplishes are:
+
+* ICPC World Final Bronze Medalist at 2019
+* IOI Gold Medalist at 2016
+* IOI Gold Medalist at 2015
 
 
 ## Brazilian Final Class
@@ -26,13 +32,16 @@ We are inviting experienced Brazilian former competitors/coaches/trainers to cre
 
 ### Jhúlia Graziella
 
-![Jhúlia Graziella Photo](img/Jhulia_small.jpg)
+![Jhúlia Graziella Photo](img/Jhulia_small.png)
 
 Cientista da Computação pela UFU, participou de Olimpíadas de Matemática e Maratonas de Programação durante toda a graduação. Também participou de projetos de iniciação científica, monitorias e deu aulas num projeto que visava ensinar alunos de ensino fundamental e médio a programar. Atualmente trabalha como Engenheira de Software na Google e ama bolos.
 
 
 ### André Amaral
-Coming Soon
+
+![André Amaral Photo](img/Andre_small.jpeg)
+
+Engenheiro de Computação pela POLI-USP. Participou da OBI durante o Ensino Médio, e também participou da IOI 2012, e durante a graduação participou da Maratona de Programação sendo finalista mundial em 2013. Atualmente é professor no colégio ETAPA, onde seu foco é treinar alunos para a OBI e IOI. Nas horas vagas gosta de criar problemas, ano passado foi setter na Final Brasileira da Maratona. 
 
 
 ### Tiago Figueiredo
