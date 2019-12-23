@@ -8,11 +8,9 @@ pager: true
 
 We will have two international instructors this year.
 
-### Ali Sharifi
+### First Week
 
-![Ali Sharifi Photo](img/Ali-Sharifi_small.jpg)
-
-Ali is an International Olympiad in Informatics (IOI) 2000 gold medalist, who graduated B.Sc. and M.Sc. of computer engineering from Sharif University of Technology and Ph.D. of Bioinformatics from University of Tehran. He conducted bioinformatics research in Royan Institute for Stem Cell Biology and Technology and also Max Planck Institute for Molecular Biomedicine, and postdoc of bioinformatics in Colorado State University. Since 2012, he has served as a member of the IOI International Scientific Committee (ISC), and the chairman of the ISC during 2018-2019. He is currently a faculty member of bioinformatics in Computer Engineering Department, Sharif University of Technology. 
+Coming Soon
 
 
 ### Ali Behjati
