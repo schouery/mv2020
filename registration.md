@@ -45,11 +45,11 @@ Others | see below | no | no | included | included
 Category | Price
 ---------|------
 Highschool or Undergrad Student associated to SBC with paid annual fee | R$ 215,00
-Highschool or Undergrad Student not associated to SBC (best option: Registration + association to SBC) | R$ 236,00
-Highschool or Undergrad Student not associated to SBC | R$ 279,00
+Highschool or Undergrad Student not associated to SBC (best option: Registration + association to SBC) | R$ 237,00
+Highschool or Undergrad Student not associated to SBC | R$ 280,00
 Graduate Student associated to SBC with paid annual fee | R$ 215,00
-Graduate Student not associated to SBC (best option: Registration + association to SBC) | R$ 300,00
-Graduate Student not associated to SBC | R$ 322,00
+Graduate Student not associated to SBC (best option: Registration + association to SBC) | R$ 306,00
+Graduate Student not associated to SBC | R$ 328,00
 
 We are still finishing our budget. We will define the stipend in January.
 
