@@ -34,8 +34,18 @@ Lectures will start at 8:30 and go up to 11:30, when students will go to lunch. 
 
 ## Brazilian Final Class Schedule
 
-**Coming Soon** 
-
+Date          | Instructor
+--------------|-----------
+Mon, Jan 20th | Jhúlia Graziella
+Tue, Jan 21st | Jhúlia Graziella
+Wed, Jan 22nd | André Amaral
+Fri, Jan 24th | André Amaral
+Sat, Jan 25th | André Amaral
+Mon, Jan 27th | Tiago Figueiredo
+Tue, Jan 28th | Tiago Figueiredo
+Wed, Jan 29th | Tiago Figueiredo
+Fri, Jan 31st | Cristina Gomes
+Sat, Feb 01st | Tiago Figueiredo
 
 ## Sponsor Days
 
