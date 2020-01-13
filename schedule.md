@@ -30,7 +30,9 @@ Lectures will start at 8:30 and go up to 11:30, when students will go to lunch. 
 
 ### Instructors
 
-**Coming Soon** 
+**First Week:** Artem Vasilev
+
+**Second Week:** Ali Behjati
 
 ## Brazilian Final Class Schedule
 
