@@ -51,7 +51,7 @@ Sat, Feb 01st | Tiago Figueiredo
 
 ## Sponsor Days
 
-Each Thursday will be dedicated to our sponsosrs.
+Each Thursday will be dedicated to our sponsors.
 
 ### January 23th
 Time  | Sponsor
