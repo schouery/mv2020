@@ -52,11 +52,15 @@ Sat, Feb 01st | Tiago Figueiredo
 Each Thursday will be dedicated to our sponsosrs.
 
 ### January 23th
-
-**Coming Soon** 
+Time  | Sponsor
+------|--------
+09:00 | WildLife
+10:30 | VTEX
+14:30 | Microsoft
 
 
 ### January 30th
 
-**Coming Soon** 
-
+Time  | Sponsor
+------|--------
+TBD   | Google
