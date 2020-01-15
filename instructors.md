@@ -8,9 +8,15 @@ pager: true
 
 We will have two international instructors this year.
 
-### First Week
+### Artem Vasilev
 
-Coming Soon
+![Artem Vasilev Photo](img/Artem_small.jpg)
+
+Artem Vasilev will be the instructor for our first week. His main acomplishes are:
+
+* Google Hash Code 2017 2nd place
+* Open Cup multiple season winner as a part of Past Glory team
+* ICPC 2015: World Champion, 2014: Bronze Medalist
 
 
 ### Ali Behjati
@@ -43,8 +49,14 @@ Engenheiro de Computação pela POLI-USP. Participou da OBI durante o Ensino Mé
 
 
 ### Tiago Figueiredo
-Coming Soon
+
+![Tiago Figueiredo Photo](img/Tiago_small.jpg)
+
+Aluno de Engenharia da Computação no final da graduação pela UFPE. Participou da Maratona de Programação em 2017 e 2018, medalhista de ouro em ambas. Atualmente é cocoach da UFPE. Está sempre disposto a trocar ideia sobre problemas, principalmente se for relacionado ao problema "Doce de Banana".
 
 
-### Cristina
-Coming Soon
+### Cristina G. Fernandes
+
+![Cristina Photo](img/Cristina_small.jpg)
+
+Professora do Departamento de Ciência da Computação da Universidade de São Paulo (USP), onde ministra disciplinas como Estruturas de Dados, Análise de Algoritmos, Geometria Computacional, entre outras.   Recentemente ela ministrou uma disciplina sobre Estruturas de Dados Avançadas, baseada no curso de Erik Demaine (6.851: Advanced Data Structures).  Gosta de implementar, e sempre que pode olha o código desenvolvido pelos seus alunos e orientados.  Uma de suas citações favoritas é "Talk is cheap. Show me the code.", de Linus Torvalds.  Você pode encontrar mais informação sobre ela e o seu contato em sua [página](http://www.ime.usp.br/~cris/) na web.
