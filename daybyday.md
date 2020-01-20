@@ -11,7 +11,7 @@ We will update this page to include links to each day activity and extra materia
 
 Day      | Lecture | Contest
 ---------|---------|--------
-Jan 20st | Lecture | Contest
+Jan 20st | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 21nd | Lecture | Contest
 Jan 22rd | Lecture | Contest
 Jan 23th | Lecture | Contest
@@ -30,7 +30,7 @@ Feb 1st  | Lecture | Contest
 
 Day      | Lecture | Contest
 ---------|---------|--------
-Jan 20st | Lecture | Contest
+Jan 20st | Lecture | [Contest](https://codeforces.com/gym/102428)
 Jan 21nd | Lecture | Contest
 Jan 22rd | Lecture | Contest
 Jan 23th | Lecture | Contest
