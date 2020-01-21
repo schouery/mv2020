@@ -12,7 +12,7 @@ We will update this page to include links to each day activity and extra materia
 Day      | Lecture | Contest
 ---------|---------|--------
 Jan 20st | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
-Jan 21nd | Lecture | Contest
+Jan 21nd | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 22rd | Lecture | Contest
 Jan 23th | Lecture | Contest
 Jan 24th | Lecture | Contest
