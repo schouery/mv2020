@@ -4,7 +4,7 @@ layout: page
 pager: true
 ---
 
-We will update this page to include links to each day activity and extra material for the students. All lectures will be streamed live on [YouTube](https://www.youtube.com/c/UnicampIC).
+We will update this page to include links to each day activity and extra material for the students. Due to technical reasons, we are unable to live stream lectures this year. But the lectures will be avaliable as soon as possible on [YouTube](https://www.youtube.com/c/UnicampIC).
 {.lead}
 
 ## World Final Class
