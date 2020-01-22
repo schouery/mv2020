@@ -51,7 +51,7 @@ Sat, Feb 01st | Tiago Figueiredo
 
 ## Sponsor Days
 
-Each Thursday will be dedicated to our sponsors.
+Each Thursday will be dedicated to our sponsors. These activities will be in classroom CB03 at Ciclo Básico I - [CB I](https://www.google.com/maps/place/Ciclo+B%C3%A1sico+I+-+CB/@-22.8147326,-47.0736946,17z/data=!4m12!1m6!3m5!1s0x94c8c14cff6a4ae5:0x5cc330b4c087f06!2sCentro+de+Conven%C3%A7%C3%B5es!8m2!3d-22.8147326!4d-47.0715006!3m4!1s0x0:0xf3522e37359f743c!8m2!3d-22.8174395!4d-47.0683667).
 
 ### January 23th
 Time  | Sponsor
