@@ -4,16 +4,16 @@ layout: page
 pager: true
 ---
 
-We will update this page to include links to each day activity and extra material for the students. All lectures will be streamed live on [YouTube](https://www.youtube.com/c/UnicampIC).
+We will update this page to include links to each day activity and extra material for the students. Due to technical reasons, we are unable to live stream lectures this year. But the lectures will be avaliable as soon as possible on [YouTube](https://www.youtube.com/c/UnicampIC).
 {.lead}
 
 ## World Final Class
 
 Day      | Lecture | Contest
 ---------|---------|--------
-Jan 20st | Lecture | Contest
-Jan 21nd | Lecture | Contest
-Jan 22rd | Lecture | Contest
+Jan 20st | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
+Jan 21nd | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
+Jan 22rd | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 23th | Lecture | Contest
 Jan 24th | Lecture | Contest
 Jan 25th | Lecture | Contest
@@ -30,9 +30,9 @@ Feb 1st  | Lecture | Contest
 
 Day      | Lecture | Contest
 ---------|---------|--------
-Jan 20st | Lecture | Contest
-Jan 21nd | Lecture | Contest
-Jan 22rd | Lecture | Contest
+Jan 20st | Lecture | [Contest](https://codeforces.com/gym/102428)
+Jan 21nd | Lecture | [Contest](https://vjudge.net/contest/353194)
+Jan 22rd | Lecture | [Contest](https://vjudge.net/contest/353364)
 Jan 23th | Lecture | Contest
 Jan 24th | Lecture | Contest
 Jan 25th | Lecture | Contest
