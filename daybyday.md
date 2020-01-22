@@ -32,7 +32,7 @@ Day      | Lecture | Contest
 ---------|---------|--------
 Jan 20st | Lecture | [Contest](https://codeforces.com/gym/102428)
 Jan 21nd | Lecture | [Contest](https://vjudge.net/contest/353194)
-Jan 22rd | Lecture | [Contest](https://vjudge.net/contest/353364)
+Jan 22rd | [Lecture](lecture-b/20200122.pdf) | [Contest](https://vjudge.net/contest/353364)
 Jan 23th | Lecture | Contest
 Jan 24th | Lecture | Contest
 Jan 25th | Lecture | Contest
