@@ -13,7 +13,7 @@ Day      | Lecture | Contest
 ---------|---------|--------
 Jan 20st | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 21nd | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
-Jan 22rd | Lecture | Contest
+Jan 22rd | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 23th | Lecture | Contest
 Jan 24th | Lecture | Contest
 Jan 25th | Lecture | Contest
