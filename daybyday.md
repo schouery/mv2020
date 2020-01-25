@@ -14,9 +14,8 @@ Day      | Lecture | Contest
 Jan 20st | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 21nd | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 22rd | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
-Jan 23th | Lecture | Contest
-Jan 24th | Lecture | Contest
-Jan 25th | Lecture | Contest
+Jan 24th | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
+Jan 25th | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 27th | Lecture | Contest
 Jan 28th | Lecture | Contest
 Jan 29th | Lecture | Contest
@@ -32,10 +31,9 @@ Day      | Lecture | Contest
 ---------|---------|--------
 Jan 20st | Lecture | [Contest](https://codeforces.com/gym/102428)
 Jan 21nd | Lecture | [Contest](https://vjudge.net/contest/353194)
-Jan 22rd | Lecture | [Contest](https://vjudge.net/contest/353364)
-Jan 23th | Lecture | Contest
-Jan 24th | Lecture | Contest
-Jan 25th | Lecture | Contest
+Jan 22rd | [Lecture](lecture-b/20200122.pdf) | [Contest](https://vjudge.net/contest/353364)
+Jan 24th | Lecture | [Contest](https://vjudge.net/contest/353598)
+Jan 25th | Lecture | [Contest](https://vjudge.net/contest/353698)
 Jan 27th | Lecture | Contest
 Jan 28th | Lecture | Contest
 Jan 29th | Lecture | Contest
