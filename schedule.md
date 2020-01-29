@@ -65,4 +65,6 @@ Time  | Sponsor
 
 Time  | Sponsor
 ------|--------
-TBD   | Google
+09:30 | Google
+12:00 | Lunch
+18:00 | Dinner
