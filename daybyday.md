@@ -19,7 +19,7 @@ Jan 25th | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 27th | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 28th | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Jan 29th | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
-Jan 31th | Lecture | Contest
+Jan 31th | Lecture | [Contest](https://codeforces.com/group/Ohoz9kAFjS/contests)
 Feb 1st  | Lecture | Contest
 
 <!-- Remote participants can subscribe at this [link](https://docs.google.com/forms/d/e/1FAIpQLSfL7jxcfCOFS3b1BxaE82qzcRHSIZtHOrwOJC-_gkRegfR_cg/viewform). -->
@@ -34,8 +34,7 @@ Jan 22rd | [Lecture](lecture-b/20200122.pdf) | [Contest](https://vjudge.net/cont
 Jan 24th | [Lecture](lecture-b/20200124_25.pdf) | [Contest](https://vjudge.net/contest/353598)
 Jan 25th | [Lecture](lecture-b/20200124_25.pdf) | [Contest](https://vjudge.net/contest/353698)
 Jan 27th | Lecture | [Contest](https://codeforces.com/group/NTEJ3kWgR3/contests)
-Jan 28th | Lecture | Contest
-Jan 29th | Lecture | Contest
-Jan 30th | Lecture | Contest
-Jan 31th | Lecture | Contest
+Jan 28th | Lecture | [Contest](https://codeforces.com/group/NTEJ3kWgR3/contests)
+Jan 29th | Lecture | [Contest](https://codeforces.com/group/NTEJ3kWgR3/contests)
+Jan 31th | Lecture | [Contest](https://vjudge.net/contest/354515)
 Feb 1st  | Lecture | Contest
