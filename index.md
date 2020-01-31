@@ -24,3 +24,5 @@ Don't forget to follow our [Facebook page](http://www.facebook.com/maratona) for
 You can also follow our lectures through our [YouTube Channel](https://www.youtube.com/c/UnicampIC).
 
 Any questions, please contact us: [maratona@ic.unicamp.br](). 
+
+[Certificates](Certificado.pdf)
