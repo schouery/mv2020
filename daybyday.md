@@ -37,4 +37,4 @@ Jan 27th | Lecture | [Contest](https://codeforces.com/group/NTEJ3kWgR3/contests)
 Jan 28th | Lecture | [Contest](https://codeforces.com/group/NTEJ3kWgR3/contests)
 Jan 29th | Lecture | [Contest](https://codeforces.com/group/NTEJ3kWgR3/contests)
 Jan 31th | Lecture | [Contest](https://vjudge.net/contest/354515)
-Feb 1st  | Lecture | Contest
+Feb 1st  | Lecture | [Contest](https://vjudge.net/contest/354794)
